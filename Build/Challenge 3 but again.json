@@ -1,0 +1,16 @@
+{
+"companyName": "Tanner Dean",
+"productName": "Lab 3",
+"productVersion": "1.0",
+"dataUrl": "Challenge 3 but again.data.unityweb",
+"wasmCodeUrl": "Challenge 3 but again.wasm.code.unityweb",
+"wasmFrameworkUrl": "Challenge 3 but again.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.30f1"
+}
